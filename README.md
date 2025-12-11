@@ -2,6 +2,8 @@
 
 **2013 US flight delay prediction with SkyNet: Graph Neural Networks for Edge Regression.**
 
+Repo for the SkyNet Medium post: https://medium.com/@herschethan/skynet-flight-delay-prediction-with-graph-machine-learning-a07c01e56e24?postPublishedType=repub
+
 ### Built with
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/PyG-%233C2179.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="20" />
 
