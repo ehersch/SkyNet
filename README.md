@@ -18,3 +18,4 @@ SkyNet predicts flight delays by modeling the US air traffic network as a graph.
 | **`no_weather_gcn.ipynb`** | **Ablation:** GCN trained without weather features. |
 | **`no_tail_number_gcn.ipynb`** | **Ablation:** GCN trained without aircraft tail numbers. |
 | **`224_project_data_exploration.ipynb`** | **Data Prep:** Processing Kaggle flights and Google Earth Engine weather data. |
+| **`experimental_models.ipynb`** | **Experiments:** Other models trained on the same data that did not perform as well as baseline. |
